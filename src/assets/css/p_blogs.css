@@ -1,0 +1,9 @@
+.el-message-box.el-message-box--center{
+    width:13rem;
+}
+.el-message-box__title .el-message-box__status.el-icon-warning{
+    font-size: 1rem !important;
+}
+.el-message-box__title span,.el-message-box__message,.el-button.el-button--default.el-button--small,.el-message-box__close.el-icon-close{
+    font-size:.7rem;
+}
